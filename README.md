@@ -18,5 +18,5 @@ Ping tests confirmed successful communication between devices and proper network
 - Wireless security implementation
 - Basic network security controls
 - Troubleshooting and validation
-### About Me  
+## About Me  
 I’m a cybersecurity-focused IT professional based in the Greater Reading Area, building hands-on projects in networking and cyber security.
